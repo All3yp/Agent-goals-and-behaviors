@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		18D754D02608C0B100636A92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D754CF2608C0B100636A92 /* AppDelegate.swift */; };
 		18D754D22608C0B100636A92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D754D12608C0B100636A92 /* SceneDelegate.swift */; };
-		18D754D42608C0B100636A92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D754D32608C0B100636A92 /* ViewController.swift */; };
 		18D754D72608C0B100636A92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D754D52608C0B100636A92 /* Main.storyboard */; };
 		18D754D92608C0B400636A92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D754D82608C0B400636A92 /* Assets.xcassets */; };
 		18D754DC2608C0B400636A92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D754DA2608C0B400636A92 /* LaunchScreen.storyboard */; };
@@ -25,7 +24,6 @@
 		18D754CC2608C0B100636A92 /* Agent and Goals.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Agent and Goals.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D754CF2608C0B100636A92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D754D12608C0B100636A92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		18D754D32608C0B100636A92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18D754D62608C0B100636A92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18D754D82608C0B400636A92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D754DB2608C0B400636A92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				18D754CF2608C0B100636A92 /* AppDelegate.swift */,
 				18D754D12608C0B100636A92 /* SceneDelegate.swift */,
 				18D754EF2608C12000636A92 /* WalkZombie.atlas */,
-				18D754D32608C0B100636A92 /* ViewController.swift */,
 				18D754F22608C13900636A92 /* ZombieScene.swift */,
 				18D754FB2608C1A400636A92 /* Extension SKSpriteNode.swift */,
 				18D754FE2608C29A00636A92 /* GameViewController.swift */,
@@ -159,7 +156,6 @@
 				18D754F32608C13900636A92 /* ZombieScene.swift in Sources */,
 				18D754FC2608C1A400636A92 /* Extension SKSpriteNode.swift in Sources */,
 				18D754F92608C16F00636A92 /* AnimatedSpriteComponent.swift in Sources */,
-				18D754D42608C0B100636A92 /* ViewController.swift in Sources */,
 				18D754FF2608C29A00636A92 /* GameViewController.swift in Sources */,
 				18D754D02608C0B100636A92 /* AppDelegate.swift in Sources */,
 				18D754D22608C0B100636A92 /* SceneDelegate.swift in Sources */,
